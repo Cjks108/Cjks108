@@ -19,7 +19,13 @@
 ## 🚀 Tools & Technologies
 
 ### Data Engineering  
-![Snowflake](https://github.com/Cjks108/snowdbtpj/blob/main/logo/snow.png) ![dbt](https://github.com/Cjks108/snowdbtpj/blob/main/logo/dbt.png) ![Dagster](https://github.com/Cjks108/snowdbtpj/blob/main/logo/dagster.png) ![Preset](https://github.com/Cjks108/snowdbtpj/blob/main/logo/preset.jpg)
+<p align="center">
+  <img src="https://github.com/Cjks108/snowdbtpj/blob/main/logo/snow.png" alt="Snowflake" width="80"/>
+  <img src="https://github.com/Cjks108/snowdbtpj/blob/main/logo/dbt.png" alt="dbt" width="80"/>
+  <img src="https://github.com/Cjks108/snowdbtpj/blob/main/logo/dagster.png" alt="Dagster" width="80"/>
+  <img src="https://github.com/Cjks108/snowdbtpj/blob/main/logo/preset.jpg" alt="Preset" width="80"/>
+</p>
+
 
 ### Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
