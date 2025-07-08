@@ -39,12 +39,13 @@
 - 💼 I’m open to collaborate on data projects & internships
 - 📍 Based in **Mumbai, Maharashtra**
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjks108&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjks108&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cjks108&show_icons=true&theme=github_dark" alt="Chirag's GitHub Stats" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cjks108&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
 
----
 
 ### 🌐 Connect With Me
 
