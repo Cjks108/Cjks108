@@ -49,8 +49,9 @@
 
 ### 🌐 Connect With Me
 
-- 📬 Reach me at: [chiragjksharma@gmail.com](mailto:chiragjksharma@gmail.com)  
-- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/cjks)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/cjks](https://www.linkedin.com/in/cjks)  
+- 📧 Email: [chiragjksharma@gmail.com](mailto:chiragjksharma@gmail.com)
+  
 ---
 
 <p align="center"><i>“Transforming data into intelligence. Engineering with purpose.”</i></p>
