@@ -19,7 +19,7 @@
 ## 🚀 Tools & Technologies
 
 ### Data Engineering  
-![Snowflake](logo/snow.png) ![dbt](logo/dbt.png) ![Dagster](logo/dagster.png) ![Preset](logo/preset.jpg)
+![Snowflake](./logo/snow.png) ![dbt](./logo/dbt.png) ![Dagster](./logo/dagster.png) ![Preset](./logo/preset.jpg)
 
 ### Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
